@@ -1,5 +1,5 @@
 # app.py
-# test a github actions
+# test a github actions with enable
 def add(a, b):
     return a + b
 
