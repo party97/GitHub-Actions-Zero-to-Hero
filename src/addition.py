@@ -1,4 +1,5 @@
 # app.py
+#self hosted
 # test a github actions with enable
 def add(a, b):
     return a + b
